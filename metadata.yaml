@@ -1,0 +1,36 @@
+_repo: Christmas-A-Happy-TimeA-Tale-Calculated-for-the-Amusement-and-Instruction-of-Young-Persons_20200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mant, Alicia Catherine
+    aliases:
+    - Mant, Alicia C.
+    - Mant, Catherine Alicia
+    - Mant, Miss
+    deathdate: 1869
+    gutenberg_agent_id: '9148'
+    url: http://www.gutenberg.org/2009/agents/9148
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Family reunions -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PR'
+title: 'Christmas, A Happy Time
+
+  A Tale, Calculated for the Amusement and Instruction of Young Persons'
+url: http://www.gutenberg.org/ebooks/20200
